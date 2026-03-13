@@ -117,7 +117,7 @@ export default function TallerPorcelanaFriaWeb() {
 
   return (
     <div className="min-h-screen bg-rose-50 text-slate-800">
-      <header className="border-b-4 border-pink-100 bg-gradient-to-b from-orange-100 via-pink-100 to-sky-100">
+      <header className="border-b-4 border-pink-100 bg-lhistoryinear-to-b from-orange-100 via-pink-100 to-sky-100">
         <div className="mx-auto max-w-6xl px-6 py-14 lg:px-8 lg:py-16">
           <div className="grid gap-8 lg:grid-cols-2 lg:items-center">
             <div>
