@@ -1055,3 +1055,26 @@ video {
     line-height: 1;
   }
 }
+
+html,
+body {
+  background-color: #fff1f2;
+  transition:
+    background-color 220ms ease,
+    color 220ms ease;
+}
+
+body,
+body * {
+  transition:
+    background-color 220ms ease,
+    border-color 220ms ease,
+    color 220ms ease,
+    box-shadow 220ms ease;
+}
+
+.header-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1.5rem;
+}
